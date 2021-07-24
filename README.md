@@ -1,4 +1,4 @@
-# Personal-Plan-and-Schedule
+# Personal-Plan-&-Schedule
 
 
 ## 2021 Year Plan
