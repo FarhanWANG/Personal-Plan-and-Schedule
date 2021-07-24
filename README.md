@@ -12,7 +12,6 @@
 * July
 ** C++ Primer Chap 1-7 
 * Aug
-  * item kj
   * -15: C++ Primer Chap 8-17
   * -31: Time Series Models (Coursera) 
 * Sep
