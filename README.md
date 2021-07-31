@@ -10,9 +10,9 @@
 
 ### Schedule
 * July
-** C++ Primer Chap 1-7 
+** C++ Primer Chap 1-8 
 * Aug
-  * -15th: C++ Primer Chap 8-17
+  * -15th: C++ Primer Chap 9-17
   * -31st: Time Series Models (Coursera) 
 * Sep
   * Start LeetCode 
