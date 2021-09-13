@@ -13,10 +13,13 @@
 ** C++ Primer Chap 1-8 
 * Aug
   * -10th: C++ Primer Chap 9-17
-  * -31st: Start LeetCode & Time Series Models (Coursera) 
 * Sep
-  * Things to do
+  * -20th: Real trading & Green Book Chap 3.3-3.6
+  * -30th: Green Book Chap 4
 * Oct
+  * -7th: Green Book Chap 6
+  * -14th: Green Book Chap 7
+  * -31th: Green Book Chap 5 
 * Nov
 * Dec
 
