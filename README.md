@@ -21,5 +21,6 @@
   * -14th: Green Book Chap 7
   * -31th: Green Book Chap 5 
 * Nov
+  *  Derive Black Sholes 
 * Dec
 
