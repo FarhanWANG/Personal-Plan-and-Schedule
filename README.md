@@ -6,7 +6,7 @@
 ### Things to do (currently off the agenda):
 * Financial-Models-Numerical-Methods-master
 * Stats & Math Courses
-* Two quant projects (one algo using ensemble learning, one web)
+* Quant projects using ensemble learning
 
 ### Schedule
 * July
