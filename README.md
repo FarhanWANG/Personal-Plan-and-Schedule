@@ -11,7 +11,7 @@
   * 1 Kaggle
   * Green Book 
   * Wechat Favorites
-  * <Educated>
+  * \<Educated\>
 * Feb
   * 1 Kaggle
   * Financial-Models-Numerical-Methods-master
