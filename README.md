@@ -25,7 +25,7 @@
   * \<此生未完成>
 * Apr
   * 1 Kaggle 
-  * <Machine Trading: Deploying Computer Algorithms to Conquer the Markets>
+  * \<Machine Trading: Deploying Computer Algorithms to Conquer the Markets>
   * Options Questions
 * May
   * \<内心之死>
