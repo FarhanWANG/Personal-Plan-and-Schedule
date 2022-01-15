@@ -4,24 +4,28 @@
 ## 2022 Yearly Plan
 
 ### Things to do (currently off the agenda):
-* Financial-Models-Numerical-Methods-master
-* Stats & Math Courses
-* Quant projects using ensemble learning
+* Books: The Wealth of Nations, 此生未完成，内心之死
 
 ### Schedule
 * Jan
-  * C++ Primer Chap 1-8 
+  * 1 Kaggle
+  * Green Book 
+  * Wechat Favorites
 * Feb
-  * -10th: C++ Primer Chap 9-17
+  * 1 Kaggle
+  * Financial-Models-Numerical-Methods-master
+  * Review Green Book
+  * Resume Stock Investment + Develop Strategy using ensemble learning
 * Mar
-  * -20th: Real trading & Green Book Chap 3.3-3.6
-  * -30th: Green Book Chap 4
+  * 1 Kaggle
+  * Algorithmic Trading: Winning Strategies and Their Rationale
+  * Stats & Math Courses
 * Apr
-  * -7th: Green Book Chap 6
-  * -14th: Green Book Chap 7
-  * -31th: Green Book Chap 5 
+  * 1 Kaggle 
+  * Machine Trading: Deploying Computer Algorithms to Conquer the Markets
 * May
-  *  Derive Black Sholes 
+  *  
 * Jun
+  *  
 * Jul - Dec
 
