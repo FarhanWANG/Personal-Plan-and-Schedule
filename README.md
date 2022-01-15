@@ -23,6 +23,7 @@
 * Apr
   * 1 Kaggle 
   * Machine Trading: Deploying Computer Algorithms to Conquer the Markets
+  * Options Questions
 * May
   *  
 * Jun
