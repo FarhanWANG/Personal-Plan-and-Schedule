@@ -4,7 +4,9 @@
 ## 2022 Yearly Plan
 
 ### Things to do (currently off the agenda):
-* Books:
+* Books: 
+* https://zhuanlan.zhihu.com/p/67832773
+* https://nndl.github.io/
 
 ### Schedule
 * Jan
