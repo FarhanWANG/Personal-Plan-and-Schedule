@@ -21,7 +21,7 @@
 * Mar
   * 1 Kaggle
   * \<Algorithmic Trading: Winning Strategies and Their Rationale>
-  * Stats & Math Courses
+  * Stats & Math Courses： https://www.sudoedu.com/zh/
   * \<此生未完成>
 * Apr
   * 1 Kaggle 
