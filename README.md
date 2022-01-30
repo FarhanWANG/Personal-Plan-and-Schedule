@@ -9,6 +9,7 @@
 * https://nndl.github.io/
 * ChessBoard
 * LeetCode Dynanmic Programming
+* LGBM等模型，量化方面比较+视频学习
 
 ### Schedule
 * Jan
