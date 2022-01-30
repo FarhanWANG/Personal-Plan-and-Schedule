@@ -8,6 +8,7 @@
 * https://zhuanlan.zhihu.com/p/67832773
 * https://nndl.github.io/
 * ChessBoard
+* LeetCode Dynanmic Programming
 
 ### Schedule
 * Jan
