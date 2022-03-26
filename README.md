@@ -8,7 +8,6 @@
 * https://zhuanlan.zhihu.com/p/67832773
 * https://nndl.github.io/
 * ChessBoard
-* LeetCode Dynanmic Programming
 * LGBM等模型，量化方面比较+视频学习
 
 ### Schedule
@@ -31,6 +30,7 @@
 * Apr
   * 1 Kaggle 
   * \<Machine Trading: Deploying Computer Algorithms to Conquer the Markets>
+  * LeetCode Dynanmic Programming
   * Options Questions
 * May
   * \<内心之死>
