@@ -30,11 +30,10 @@
 * Apr
   * 1 Kaggle 
   * \<Machine Trading: Deploying Computer Algorithms to Conquer the Markets>
-  * \<Quantitative Value>
-  * LeetCode Dynanmic Programming
-  * Options Questions
 * May
   * \<内心之死>
+  * \<Quantitative Value>
+  * LeetCode Dynanmic Programming
 * Jun
   * \<The Wealth of Nations>
 * Jul - Dec
