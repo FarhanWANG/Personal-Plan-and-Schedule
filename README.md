@@ -33,9 +33,10 @@
 * May
   * \<内心之死>
   * \<Quantitative Value>
-  * LeetCode Dynanmic Programming
+  * Strategy Developing
 * Jun
   * \<The Wealth of Nations>
+  * LeetCode Dynanmic Programming
 * Jul - Dec
 
 ## * Mathematics:
