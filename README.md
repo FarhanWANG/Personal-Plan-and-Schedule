@@ -5,10 +5,7 @@
 
 ### Things to do (currently off the agenda):
 * Books: 
-* https://zhuanlan.zhihu.com/p/67832773
 * https://nndl.github.io/
-* ChessBoard
-* LGBM等模型，量化方面比较+视频学习
 
 ### Schedule
 * Jan
@@ -32,12 +29,18 @@
   * \<Machine Trading: Deploying Computer Algorithms to Conquer the Markets>
 * May
   * \<内心之死>
-  * \<Quantitative Value>
   * Strategy Developing
 * Jun
-  * \<The Wealth of Nations>
-  * LeetCode Dynanmic Programming
-* Jul - Dec
+* Jul
+  * \<Quantitative Value>
+  * Chinese Books
+* Aug
+  * LGBM等模型，量化方面比较+视频学习
+* Sep
+* Oct
+* Nov
+* Dec
+
 
 ## * Mathematics:
   * Single Variable Calculus (https://ocw.mit.edu/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010)
